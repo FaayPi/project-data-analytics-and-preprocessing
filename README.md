@@ -1,5 +1,3 @@
-# project-data-analytics-and-preprocessing
-
 # 🛌 Sleep Quality Analysis
 
 ## 📘 Introduction
